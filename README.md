@@ -1,5 +1,8 @@
 Ante Portas - SP campaign for Arma 2
 ====================================
+
+SITUATION REPORT
+================
 Mission task
 ------------
 Our primary target is important person - Nikola Bugayev. Leader of Chedaky military units in Chernarusia.
@@ -47,3 +50,29 @@ Can I warm up with you ? It's very hot weather.
 Reply:
 
 At the autumn mornings is always so hot weather.
+
+COOPERATION
+===========
+Friendly and enemy forces
+-------------------------
+Just a small overview about possible cooperation with local people. Some of them are sympathized with NAPA but also CDKZ has a lot of adherents. Be careful and trust only to checked contacts.
+
+NAPA
+----
+Nationality: Chernarusian
+Armory: mostly Russian equipment
+Quantity: a few dozen volunteers
+Cooperation: without any problems
+
+Civilians
+---------
+Nationality: Chernarusian
+Armory: sometimes hidden Russian weapons
+Cooperation: need to build confidence
+
+CDKZ
+----
+Nationality: Chernarusian/Russian
+Armory: Russian equipment
+Quantity: several hundred mercenaries
+Cooperation: none
