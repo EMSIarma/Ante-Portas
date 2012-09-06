@@ -1,10 +1,11 @@
-Ante-Portas
+Ante Portas
 ===========
 
 SP campaign for Arma 2
 ----------------------
 
 Mission task
+............
 Our primary target is important person - Nikola Bugayev. Leader of Chedaky military units in Chernarusia.
 If we want to bring a freedom and democracy into this post-soviet republic together with NAPA, we must cut Chedakys from any old contacts from Russia as Nikola Bugayev has.
 Your task is only to locate and assign this primary target for the UAV.
