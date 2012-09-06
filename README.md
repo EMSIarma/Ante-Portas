@@ -60,19 +60,51 @@ Just a small overview about possible cooperation with local people. Some of them
 NAPA
 ----
 Nationality: Chernarusian
+
 Armory: mostly Russian equipment
+
 Quantity: a few dozen volunteers
+
 Cooperation: without any problems
 
 Civilians
 ---------
 Nationality: Chernarusian
+
 Armory: sometimes hidden Russian weapons
+
 Cooperation: need to build confidence
 
 CDKZ
 ----
 Nationality: Chernarusian/Russian
+
 Armory: Russian equipment
+
 Quantity: several hundred mercenaries
+
 Cooperation: none
+
+CALL SIGNS
+==========
+Assigned call signs
+-------------------
+Here is a complete list of all assigned call signs for important units. Those units will have an important role in your mission.
+
+Your call sign: SCOOBYDOO
+
+Utes C.O.C HQ; call sign: RED CROWN
+
+Transport to the drop zone:
+---------------------------
+1x C-130J Super Hercules; call sign: SHOWTIME
+
+UAV mission support:
+--------------------
+1x MQ-9 Reaper; call sign: MAMBA
+
+Transport from the evac zone:
+-----------------------------
+1x UH-1Y Venom; call sign: GANDALF
+
+2x AH-64D Apache Longbow; call sign: BLACK HORSE 1 and 2
